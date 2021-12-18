@@ -1,4 +1,4 @@
-# Folio 2019
+# buruno-simon-by-prodev
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -18,6 +18,3 @@ npm run dev
 npm run build
 ```
 
-```
-🥚 2021eggpvlzscw
-```
